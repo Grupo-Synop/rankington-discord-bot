@@ -1,0 +1,25 @@
+-ranking [rango]: Muestra el ranking del rango que se ha elegido, default=all
+-change [@user] [rango] [cantidad] [descripcion]: Sube el nivel del usuario en el rango indicado por la cantidad dada. Solo el usuario y rango son requeridos
+-ayuda: Muestra los comandos de ayuda
+-version: Muestra la version y las actualizaciones hechas en la version actual al bot
+-crash: Reproduce el sonido de error de Windows XP
+-punishment: Monokuma te castigará
+-clair: Reproduce Clair de Lune
+-play [url]: Reproduce el video de youtube que se encuentra en la url dada.
+-leave: Hace que el bot se salga del canal de voz
+-pause: Pausa la reproducción
+-resume: Resume la reproducción actual
+-stop: Detiene la reproducción actual
+
+Rangos aceptados:
+-amabilidad
+-chismes
+-estupidez
+-sordera
+-amigos
+-comedia
+-puteria
+
+~~~~~~Todos los comandos mostrados a continuacion son sujetos a cambios~~~~~~
+Mas informacion en README
+El codigo del bot está bajo la licencia de GNU.

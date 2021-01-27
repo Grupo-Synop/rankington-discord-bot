@@ -1,0 +1,23 @@
+Version 2.2
+-Se arreglaron errores fatales de seguridad.
+-Se agrega la habilidad de reproducir musica con videos de youtube.
+-Se agrega la habilidad de pausar musica.
+-Se agrega la habilidad de unirse a canales de voz.
+-Se removió el pudin.
+
+Version 2.1 (not public):
+-Se arreglaron errores diversos.
+
+Version 2.0 (not public):
+-Modificaciones finales para adapdar a MySQL y MariaDB.
+-Creación de base de datos en MYSQL y MariaDB.
+
+Version 1.0 (not public):
+-Eliminación de .txt.
+-Modificaciones para adaptarlos a MySQL y MariaDB.
+
+Version 0.2 (not public):
+-Posibilidad de mostrar rangos.
+
+Version 0.1 (not public):
+-Creacion del bot.
